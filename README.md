@@ -1,5 +1,7 @@
-# DCPM-Motor-Characterization-for-Reaction-Wheel
+# Characterization of a Direct Current Permanent Magnet (DCPM) Motor for the Modeling, Design and Control of a Non-Cots Reaction Wheel.
 To determine the physical parameters of a DC motor in order to correctly obtain the model and stablish an adequate control for a self-made reaction wheel. 
+
+## Year: 2016.
 
 ## Description.
 
